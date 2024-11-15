@@ -37,9 +37,10 @@ Bu proje, SQLite ile veri tabanı işlemlerini öğrenmek isteyenlere:
 
 ## 🌟 Örnek Görüntü
 
-📌 Aşağıda projeden bir örnek görselin bulunması gereken yer:  
+📌 Aşağıda projeden bir örnek görselin bulabilirsiniz :  
 
-![Placeholder Görsel](https://via.placeholder.com/800x400.png?text=Proje+G%C3%B6r%C3%BCnt%C3%BCs%C3%BC+Eklenebilir)
+![Placeholder Görsel](https://via.placeholder.com/800x400.png?text=G%C3%B6rsel+Eklenemedi)
+
 
 
 ## 🤝 Katkı

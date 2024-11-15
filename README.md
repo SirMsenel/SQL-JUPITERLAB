@@ -1,5 +1,24 @@
-# SQL-JUPITERLAB
-birbiriyle bağıntılı ürün pazarlama dataları aracılığı ile sql tabanlı ve eş zamanlı jupiterlab aracılığı sorgulara yer verilmiştir.
 
-- sql tabanlı data dosyları üzerinden hem sqllite üzerinde hemde eş zamanlı olarak jupiternotebook dan sorgulama aracılığı ile temel sorgular ve içerikleri yer almaktadır.
-- örnek sorgu ve sorular ile pekiştirme içerikleri yer almaktadır.
+# 📋 SQLite Kullanımı ve Örnekler
+
+Bu proje, **SQLite** uygulamasının **Jupyter Lab** üzerinde kullanımına dair temel örnekler ve çözümler sunmaktadır. Proje, SQL ile veri tabanı işlemlerine yeni başlayanlar için pratik bir öğrenme materyali olarak tasarlanmıştır. 
+
+---
+
+## 📂 İçerik
+
+✔️ **Örnek Veri Tabanları**: Çeşitli işlemler için hazırlanmış veri setleri  
+✔️ **SQL İşlemleri**:  
+   - Veri tabanı oluşturma  
+   - Veri ekleme  
+   - Veri sorgulama, güncelleme ve silme  
+✔️ **Çözümler**: Her örnek, açıklamalı adımlar ile çözülmüştür.  
+
+---
+
+## 🚀 Kullanım
+
+1. Projeyi klonlayarak başlayın:
+   ```bash
+   git clone https://github.com/username/repo-name.git
+    ```
